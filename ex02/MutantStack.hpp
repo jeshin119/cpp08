@@ -2,7 +2,6 @@
 #define __SPAN_H__
 
 #include <stack>
-#include <deque>
 
 template <typename T>
 class MutantStack : public std::stack<T>{
